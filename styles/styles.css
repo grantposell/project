@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: #283a4a;
+}
+.navbar-light .navbar-brand{
+    color: #f26c31;
+}
+h2{
+    font-size: 26px;
+    font-family: "Montserrat",sans-serif;
+    text-align: center;
+}
+.card{
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+#itemsList{
+    margin: 0px;
+
+}
